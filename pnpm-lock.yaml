@@ -997,20 +997,35 @@ packages:
   '@vue/devtools-api@7.7.10':
     resolution: {integrity: sha512-KxtEpUOOpFz/qOGRrAwA36QF7DqIA+FXgCYit9mk9wjbaZt0sXOFz81ElOZtKA4HbWHUdwNjZHBFsFFyp5BZiA==}
 
+<<<<<<< HEAD
   '@vue/devtools-api@8.2.0':
     resolution: {integrity: sha512-wsa2juekhKh6xni3yrcPYYALoXLCiOVDvLxJ6dLXGBBJdzLwFsygNzqdLeIxBkoWeoTN1bQpXmMDxWdX5mDeAg==}
+=======
+  '@vue/devtools-api@8.1.5':
+    resolution: {integrity: sha512-YJipMVAKe5wT5CWf5kTYCaNV7NMNjFVxJkIkJaJ4W/nCxEBzlZzrOsYKeCymdCrFZmBS/+wTWFoUs3Jf/Q6XSQ==}
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
 
   '@vue/devtools-kit@7.7.10':
     resolution: {integrity: sha512-3WNi2Kq4tbpVbmhml7RiphmAt0279oh3fKNeWMQIrltfX8Q91b4i5PL8DtyNKdwmcsGrV4fg+erwWOmD05CLIw==}
 
+<<<<<<< HEAD
   '@vue/devtools-kit@8.2.0':
     resolution: {integrity: sha512-6NVyj/npe412N3Tshpr9eSCzuhup6jlkVYXi0bEolIxfdqEYccVdNyqR7dvpYFMB+FmDEUaO8waMa8og/1MokA==}
+=======
+  '@vue/devtools-kit@8.1.5':
+    resolution: {integrity: sha512-FcSAxsi4eWuXLCB7Rv9lj0aIVHHPNVQ2BazGf4RJTc2JCqb4BQg0hk87ZFhminCfl+mD5OUI0rX2cgyu4kJOGA==}
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
 
   '@vue/devtools-shared@7.7.10':
     resolution: {integrity: sha512-wOPslzB8vTvpxwdaOcR2qAbwmuSP0L+rhpoC6Cf56V3Jip+HWb7PQQXOUPgBNQARpXsbQX/+mvi8kKucmBGRwQ==}
 
+<<<<<<< HEAD
   '@vue/devtools-shared@8.2.0':
     resolution: {integrity: sha512-Cc+nxAI3J49IRS9subfx+6gGokeS970/nCz8VvOWp1iBt45WAfOy18+KcDaAvEiUqV3yn5AadA22PwcOLkvqpg==}
+=======
+  '@vue/devtools-shared@8.1.5':
+    resolution: {integrity: sha512-mhT4zcPFhF+Xk1O4BfhhrbXzpmfqY03fS6xGpcllbQG7lDjhQf8pQHcTIhqQIYx1hfwtHmk/6jM96ele0UxPqQ==}
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
 
   '@vue/reactivity@3.5.40':
     resolution: {integrity: sha512-B7ot9UlUZOi1zbq61/LvE88ZLTV8IlajTdiZTAEiDQgrnIMIZoPr9kGw0Zw46ObW62O9+H/Be3kMbfb7kYPQZA==}
@@ -4991,9 +5006,15 @@ snapshots:
     dependencies:
       '@vue/devtools-kit': 7.7.10
 
+<<<<<<< HEAD
   '@vue/devtools-api@8.2.0':
     dependencies:
       '@vue/devtools-kit': 8.2.0
+=======
+  '@vue/devtools-api@8.1.5':
+    dependencies:
+      '@vue/devtools-kit': 8.1.5
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
 
   '@vue/devtools-kit@7.7.10':
     dependencies:
@@ -5005,9 +5026,15 @@ snapshots:
       speakingurl: 14.0.1
       superjson: 2.2.6
 
+<<<<<<< HEAD
   '@vue/devtools-kit@8.2.0':
     dependencies:
       '@vue/devtools-shared': 8.2.0
+=======
+  '@vue/devtools-kit@8.1.5':
+    dependencies:
+      '@vue/devtools-shared': 8.1.5
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
       birpc: 2.9.0
       hookable: 5.5.3
       perfect-debounce: 2.1.0
@@ -5016,7 +5043,11 @@ snapshots:
     dependencies:
       rfdc: 1.4.1
 
+<<<<<<< HEAD
   '@vue/devtools-shared@8.2.0': {}
+=======
+  '@vue/devtools-shared@8.1.5': {}
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
 
   '@vue/reactivity@3.5.40':
     dependencies:
@@ -8379,7 +8410,11 @@ snapshots:
     dependencies:
       '@babel/generator': 8.0.0
       '@vue-macros/common': 3.1.4(vue@3.5.40(typescript@6.0.3))
+<<<<<<< HEAD
       '@vue/devtools-api': 8.2.0
+=======
+      '@vue/devtools-api': 8.1.5
+>>>>>>> ff2bba6705f6e8d4882c9919916e7111f4f71dea
       ast-walker-scope: 0.9.0
       chokidar: 5.0.0
       json5: 2.2.3
